@@ -1,0 +1,49 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+  }
+  
+  button,input {
+    padding: 10px 15px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover,input:hover {
+    background-color: #45a049;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+  }
+  
+  .no-test {
+    text-align: center;
+    color: #999;
+    margin-bottom: 20px;
+  }
+  
